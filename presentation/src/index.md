@@ -6,7 +6,7 @@
 
 # How?
 
-<img src='https://user-images.githubusercontent.com/19563941/62942568-1b431200-bdc8-11e9-80d3-b038291e6ae9.jpg' style='max-width:1000px;width:100%' />
+<img src='https://user-images.githubusercontent.com/19563941/62942568-1b431200-bdc8-11e9-80d3-b038291e6ae9.jpg' style='max-width:1300px;width:100%' />
 ---
 
 # What? 
