@@ -42,9 +42,7 @@
 
 
 
-
-
-# 
+# What?
 
 
 <img src='https://user-images.githubusercontent.com/19563941/62946478-4893be00-bdd0-11e9-8043-88f4e951535c.jpg' style='max-width:1300px;width:100%' />
@@ -55,11 +53,8 @@
 
 
 
-# 
+# How?
 
 
-.pull-left[  How? ]
-
-
-.pull-right[ <img src='https://user-images.githubusercontent.com/19563941/62946478-4893be00-bdd0-11e9-8043-88f4e951535c.jpg' style='max-width:1000px;width:100%' /> ]
+<img src='https://user-images.githubusercontent.com/19563941/62946478-4893be00-bdd0-11e9-8043-88f4e951535c.jpg' style='max-width:1000px;width:100%' />
 
